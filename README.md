@@ -32,4 +32,4 @@ React · Node.js · Bootstrap · Firebase
 
 **Data & Databases**  
 
-SQL · MongoDB · Power BI · MicroStrategy · Excel  
+SQL · MongoDB · Power BI · MicroStrategy 
