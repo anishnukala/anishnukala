@@ -4,7 +4,7 @@
 
 Full-stack developer and data-focused Computer Science student at Iowa State University.
 
-I build scalable web apps, analytics dashboards, and systems that turn data into usable insights.
+I build scalable mobile apps, web apps, analytics dashboards, and systems that turn data into usable insights.
 
 ---
 
