@@ -10,7 +10,7 @@ I build scalable mobile apps, web apps, analytics dashboards, and systems that t
 
 - CS @ Iowa State University  
 
-- Minor: Entrepreneurship + Applied AI  
+- Minor: Entrepreneurship + Applied AI + DS
 
 - Focus: Full-stack development, data systems, analytics  
 
