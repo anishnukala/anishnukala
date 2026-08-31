@@ -114,11 +114,11 @@ I build scalable mobile apps, web applications, backend systems, data pipelines,
 <tr>
 <td colspan="2" align="center" valign="top">
 <b>🖥️ IDEs & Development Environments</b><br>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-7C3AED?style=flat-square&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle_SQL_Developer-F97316?style=flat-square&logo=databricks&logoColor=white">
 </td>
 </tr>
 </table>
